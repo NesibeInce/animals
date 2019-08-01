@@ -1,0 +1,10 @@
+1.lion
+2.camel
+3.horse
+4.fish
+5.leopard
+6.cheetah
+7.cat
+8.cow
+9.donkey
+10.giraff
